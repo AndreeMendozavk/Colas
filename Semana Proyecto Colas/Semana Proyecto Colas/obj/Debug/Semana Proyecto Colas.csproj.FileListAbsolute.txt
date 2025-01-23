@@ -1,0 +1,10 @@
+C:\Users\UPN\source\repos\Semana Proyecto Colas\Semana Proyecto Colas\bin\Debug\Semana Proyecto Colas.exe.config
+C:\Users\UPN\source\repos\Semana Proyecto Colas\Semana Proyecto Colas\bin\Debug\Semana Proyecto Colas.exe
+C:\Users\UPN\source\repos\Semana Proyecto Colas\Semana Proyecto Colas\bin\Debug\Semana Proyecto Colas.pdb
+C:\Users\UPN\source\repos\Semana Proyecto Colas\Semana Proyecto Colas\obj\Debug\Semana Proyecto Colas.csproj.AssemblyReference.cache
+C:\Users\UPN\source\repos\Semana Proyecto Colas\Semana Proyecto Colas\obj\Debug\Semana_Proyecto_Colas.Form1.resources
+C:\Users\UPN\source\repos\Semana Proyecto Colas\Semana Proyecto Colas\obj\Debug\Semana_Proyecto_Colas.Properties.Resources.resources
+C:\Users\UPN\source\repos\Semana Proyecto Colas\Semana Proyecto Colas\obj\Debug\Semana Proyecto Colas.csproj.GenerateResource.cache
+C:\Users\UPN\source\repos\Semana Proyecto Colas\Semana Proyecto Colas\obj\Debug\Semana Proyecto Colas.csproj.CoreCompileInputs.cache
+C:\Users\UPN\source\repos\Semana Proyecto Colas\Semana Proyecto Colas\obj\Debug\Semana Proyecto Colas.exe
+C:\Users\UPN\source\repos\Semana Proyecto Colas\Semana Proyecto Colas\obj\Debug\Semana Proyecto Colas.pdb
