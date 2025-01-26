@@ -1,0 +1,10 @@
+C:\Users\Andre\source\repos\Semana Proyecto 1 Cola\Semana Proyecto 1 Cola\obj\Debug\Semana Proyecto 1 Cola.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\Semana Proyecto 1 Cola\Semana Proyecto 1 Cola\obj\Debug\Semana_Proyecto_1_Cola.Form1.resources
+C:\Users\Andre\source\repos\Semana Proyecto 1 Cola\Semana Proyecto 1 Cola\obj\Debug\Semana_Proyecto_1_Cola.Properties.Resources.resources
+C:\Users\Andre\source\repos\Semana Proyecto 1 Cola\Semana Proyecto 1 Cola\obj\Debug\Semana Proyecto 1 Cola.csproj.GenerateResource.cache
+C:\Users\Andre\source\repos\Semana Proyecto 1 Cola\Semana Proyecto 1 Cola\obj\Debug\Semana Proyecto 1 Cola.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Semana Proyecto 1 Cola\Semana Proyecto 1 Cola\bin\Debug\Semana Proyecto 1 Cola.exe.config
+C:\Users\Andre\source\repos\Semana Proyecto 1 Cola\Semana Proyecto 1 Cola\bin\Debug\Semana Proyecto 1 Cola.exe
+C:\Users\Andre\source\repos\Semana Proyecto 1 Cola\Semana Proyecto 1 Cola\bin\Debug\Semana Proyecto 1 Cola.pdb
+C:\Users\Andre\source\repos\Semana Proyecto 1 Cola\Semana Proyecto 1 Cola\obj\Debug\Semana Proyecto 1 Cola.exe
+C:\Users\Andre\source\repos\Semana Proyecto 1 Cola\Semana Proyecto 1 Cola\obj\Debug\Semana Proyecto 1 Cola.pdb
