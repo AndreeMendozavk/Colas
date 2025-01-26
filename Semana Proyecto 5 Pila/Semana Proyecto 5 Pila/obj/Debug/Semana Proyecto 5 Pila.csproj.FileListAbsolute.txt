@@ -1,0 +1,7 @@
+C:\Users\Andre\source\repos\Semana Proyecto 5 Pila\Semana Proyecto 5 Pila\bin\Debug\Semana Proyecto 5 Pila.exe.config
+C:\Users\Andre\source\repos\Semana Proyecto 5 Pila\Semana Proyecto 5 Pila\bin\Debug\Semana Proyecto 5 Pila.exe
+C:\Users\Andre\source\repos\Semana Proyecto 5 Pila\Semana Proyecto 5 Pila\bin\Debug\Semana Proyecto 5 Pila.pdb
+C:\Users\Andre\source\repos\Semana Proyecto 5 Pila\Semana Proyecto 5 Pila\obj\Debug\Semana Proyecto 5 Pila.csproj.AssemblyReference.cache
+C:\Users\Andre\source\repos\Semana Proyecto 5 Pila\Semana Proyecto 5 Pila\obj\Debug\Semana Proyecto 5 Pila.csproj.CoreCompileInputs.cache
+C:\Users\Andre\source\repos\Semana Proyecto 5 Pila\Semana Proyecto 5 Pila\obj\Debug\Semana Proyecto 5 Pila.exe
+C:\Users\Andre\source\repos\Semana Proyecto 5 Pila\Semana Proyecto 5 Pila\obj\Debug\Semana Proyecto 5 Pila.pdb
